@@ -10,5 +10,6 @@ This repository contains the code to reproduce the experiments of the paper
 Each script replicates one of the examples:
 
 * Filename: Example ...
+* [example_boundary_conditions.py](example_boundary_conditions.py): Run the example of Section 7.3.
 * Filename: Example ...
 
