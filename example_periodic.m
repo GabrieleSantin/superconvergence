@@ -2,7 +2,6 @@
 
 clear all; close all; clc;
 
-addpath('aux/')
 rng(42)
 
 % Basic parameters
