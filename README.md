@@ -11,5 +11,5 @@ Each script replicates one of the examples:
 
 * Filename: Example ...
 * [example_boundary_conditions.py](example_boundary_conditions.py): Run the example of Section 7.3.
-* Filename: Example ...
+* [example_periodic.m](example_periodic.m): Run the example of Section 7.4 with r = 2.
 
