@@ -7,9 +7,12 @@ This repository contains the code to reproduce the experiments of the paper
 
 ## Code overview
 
-Each script replicates one of the examples:
+The setup.sh file can be used to set up a virtual environment and installing the required python packages.
 
-* Filename: Example ...
+The scripts can be used to replicate the examples:
+
+* [example_convergence_rates_1D.py](example_convergence_rates_1D.py): Run the 1D examples of Section 7.1. and the example of Section 7.2
+* [example_convergence_rates_2D.py](example_convergence_rates_2D.py): Run the 2D examples of Section 7.1.
 * [example_boundary_conditions.py](example_boundary_conditions.py): Run the example of Section 7.3.
 * [example_periodic.m](example_periodic.m): Run the example of Section 7.4 with r = 2.
 
